@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm [Alan Edu Hernandez!](https://chatbootproyecto.000webhostapp.com/indexh.php#inicio)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Engineer of system
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 👨‍💻 Actualmente me encuentro cursando mis últimos ciclos de mi carrera, estoy enfocado en adquirir nuevos conocimientos desarrollando proyectos🐱‍👤
 - 📚 Learning everything about Frontend and Backend technologies 🦅
@@ -19,9 +19,6 @@
 💬 &nbsp; No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.\
 ✉️ &nbsp;You can shoot me an email at alaneduh231@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [portafolio web](https://chatbootproyecto.000webhostapp.com/indexh.php#inicio) for more details about me. I'm open to feedback and suggestions!
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ## 🛠️ My Skills
