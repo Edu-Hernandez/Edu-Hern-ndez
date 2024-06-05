@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Alan Edu Hernandez!](https://chatbootproyecto.000webhostapp.com/indexh.php#inicio)
+### Hi there 👋 I'm [Alan Edu Hernandez!](https://edu-hernandez.github.io/WebHernandez/#)
 
 
 ## I'm a Engineer of system
@@ -18,7 +18,7 @@
 ✍️ &nbsp;En mi tiempo libre me dedico a investigar nuevas tecnologías, programar y actividades secundarias. 
 💬 &nbsp; No dude en comunicarse conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.\
 ✉️ &nbsp;You can shoot me an email at alaneduh231@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [portafolio web](https://chatbootproyecto.000webhostapp.com/indexh.php#inicio) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [portafolio web](https://edu-hernandez.github.io/WebHernandez/#) for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🛠️ My Skills
